@@ -8,7 +8,7 @@ readme = "README.md"
 keywords = ["matrix"]
 exclude = [".editorconfig", "justfile"]
 version = "1.0.1"
-edition = "2021"
+edition = "2024"
 
 [lib]
 name = "mxidwc"
