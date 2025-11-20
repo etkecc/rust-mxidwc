@@ -15,7 +15,7 @@ name = "mxidwc"
 path = "src/lib.rs"
 
 [dependencies]
-regex = "1.11.*"
+regex = "1.12.*"
 
 [profile.release]
 strip = true
